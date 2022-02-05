@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<web-app>
+	<servlet>
+             <servlet-name>ControllerServlet</servlet-name>
+             <servlet-class>MyPackage.ControllerServlet</servlet-class>
+    	</servlet>    
+    	<servlet-mapping>
+             <servlet-name>ControllerServlet</servlet-name>
+             <url-pattern>/ControllerServlet</url-pattern>
+    	</servlet-mapping>
+	
+</web-app>

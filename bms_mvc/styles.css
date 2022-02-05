@@ -1,0 +1,151 @@
+    #mainHeading {
+        color: #0052cc;
+        font-weight: bold;
+        font-size: 3vw;
+        /* font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+    }
+    
+    body {
+        background-image: url(body.jpg);
+        /* background-image: url("https://wallpaperaccess.com/full/327137.jpg"); */
+        /* background-color:black; */
+    }
+    
+    .form-label {
+        font-size: 1.5vw;
+        margin-top: -20px;
+        color: white;
+    }
+    
+    .form {
+        width: 25%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    .book_issue_div {
+        width: 90%;
+        margin-top: 3%;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+        /* border: 1px solid red; */
+    }
+    
+    .sub_button {
+        font-size: 1.5vw;
+        align-self: center;
+        background-color: #0052cc;
+        color: white;
+        width: 100%;
+        height: 40px;
+        border-radius: 7px;
+        text-align: center;
+    }
+    
+    .search_button {
+        font-size: 1.5vw;
+        align-self: center;
+        background-color: #0052cc;
+        color: white;
+        width: 40%;
+        height: 35px;
+        /* border-radius: 7px; */
+        text-align: center;
+    }
+    
+    .issue_button {
+        font-size: 1.5vw;
+        align-self: center;
+        background-color: #0052cc;
+        color: white;
+        width: 20%;
+        height: 40px;
+        border-radius: 7px;
+        text-align: center;
+    }
+    
+    .search {
+        margin-top: 0.7%;
+        margin-left: auto;
+        margin-right: auto;
+        width: 90%;
+        text-align: left;
+    }
+    
+    .issue {
+        width: 90%;
+        border-collapse: separate;
+        border-spacing: 10px;
+        text-align: right;
+        /* border: 1px solid red;	 */
+    }
+    
+    .return {
+        width: 60%;
+        border-collapse: separate;
+        border-spacing: 10px;
+        text-align: center;
+        /* border: 1px solid red;	 */
+    }
+    
+    .profile {
+        width: 7%;
+        height: 3vw;
+        border-style: none solid none none;
+        border-color: rgba(22, 21, 21, 0.527);
+        /* text-align: center; */
+        /* border-radius: 7px; */
+        font-style: italic;
+        /* font-weight: bold; */
+        color: blue;
+    }
+    
+    .bookReturned {
+        margin-left: auto;
+        margin-right: auto;
+        border-style: solid none none none;
+        border-color: blue;
+        /* margin-top: 3%; */
+        border-collapse: separate;
+        border-spacing: 10px;
+        text-align: left;
+        color: rgb(214, 214, 219);
+    }
+    
+    .bookReturnedDiv {
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 3%;
+        width: 25%;
+        text-align: center;
+        border: 4px solid blue;
+        color: blue;
+        border-radius: 7px;
+    }
+    
+    .showBooksTable {
+        margin-left: auto;
+        margin-right: auto;
+        /* margin-top: 3%; */
+        border-style: solid none none none;
+        border-color: blue;
+        border-collapse: separate;
+        border-spacing: 12px;
+        text-align: left;
+        color: rgb(214, 214, 219);
+    }
+    
+    .showBooksDiv {
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 3%;
+        width: 45%;
+        text-align: center;
+        border: 4px solid blue;
+        color: blue;
+        border-radius: 7px;
+    }
