@@ -1,4 +1,4 @@
-# BookManagementSystem_Java_MVC_basedApplication
+# Book Management System java MVC Based Application
 
 Tools and Technologies used:
 
